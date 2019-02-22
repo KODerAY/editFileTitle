@@ -35,18 +35,15 @@
   <ItemGroup>
     <Reference Include="IdSharp.AudioInfo, Version=1.1.6977.32589, Culture=neutral, PublicKeyToken=12b31ba58084889a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Downloads\Compressed\idsharp-master\IdSharp-master\IdSharp.AudioInfo\bin\Debug\IdSharp.AudioInfo.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\Compressed\programlama\idsharp-master\IdSharp-master\Examples\IdSharp.Example.ConsoleApplication\bin\Debug\IdSharp.AudioInfo.dll</HintPath>
     </Reference>
-    <Reference Include="IdSharp.Common, Version=1.1.6977.32398, Culture=neutral, PublicKeyToken=1c8ad57ae419ccff, processorArchitecture=MSIL">
+    <Reference Include="IdSharp.Common, Version=1.1.6977.32584, Culture=neutral, PublicKeyToken=1c8ad57ae419ccff, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Downloads\Compressed\idsharp-master\IdSharp-master\IdSharp.Common\bin\Debug\IdSharp.Common.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\Compressed\programlama\idsharp-master\IdSharp-master\Examples\IdSharp.Example.ConsoleApplication\bin\Debug\IdSharp.Common.dll</HintPath>
     </Reference>
     <Reference Include="IdSharp.Tagging, Version=1.1.6977.32587, Culture=neutral, PublicKeyToken=9218f8c7f40da032, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Downloads\Compressed\idsharp-master\IdSharp-master\IdSharp.Tagging\bin\Debug\IdSharp.Tagging.dll</HintPath>
-    </Reference>
-    <Reference Include="IdSharp.WebLookup">
-      <HintPath>..\..\..\..\Downloads\Compressed\idsharp-master\IdSharp-master\IdSharp.WebLookup\bin\Debug\IdSharp.WebLookup.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\Compressed\programlama\idsharp-master\IdSharp-master\Examples\IdSharp.Example.ConsoleApplication\bin\Debug\IdSharp.Tagging.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -56,8 +53,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="zlib.net">
-      <HintPath>..\..\..\..\Downloads\Compressed\idsharp-master\IdSharp-master\IdSharp.Tagging\Libraries\zlib.net.dll</HintPath>
+    <Reference Include="zlib.net, Version=1.0.3.0, Culture=neutral, PublicKeyToken=c7bcfd2fb5dbd3c1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Downloads\Compressed\programlama\idsharp-master\IdSharp-master\Examples\IdSharp.Example.ConsoleApplication\bin\Debug\zlib.net.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
